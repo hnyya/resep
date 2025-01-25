@@ -82,7 +82,7 @@ article,aside,figcaption,figure,footer,header,hgroup,main,nav,section {
 }
 
 .section-header {
-    background-image: url('../assets/img/produk/prd02.jpg');
+    background-image: url('../assets/img/produk/');
     background-size: cover;
     background-position: center;
     position: relative;
